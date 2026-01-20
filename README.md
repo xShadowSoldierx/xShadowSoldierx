@@ -1,308 +1,75 @@
-<h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A full stack developer from Germany</h3>
+<h1 align="center">👋 Hi, I'm Ricardo</h1>
+<h3 align="center">Junior Full Stack Developer · Web & E-Commerce</h3>
 
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=xshadowsoldierx&label=Profile%20views&color=0e75b6&style=flat"
-        alt="xshadowsoldierx"
-    />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xshadowsoldierx&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-            src="https://github-profile-trophy.vercel.app/?username=xshadowsoldierx"
-            alt="xshadowsoldierx"
-    /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🧑‍💻 About Me
 
-<h4 align="left">Web development</h4>
+I am an analytically minded **Junior Software Developer** with a strong focus on  
+**Web and E-Commerce Applications**.
 
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"></a>
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-            alt="php"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-            alt="sass"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
+I enjoy working on structured, maintainable codebases and taking responsibility for
+clearly defined features and projects. I adapt quickly to new technologies and value
+clean architecture and practical solutions.
 
-<p align="left">
-    <a href="https://symfony.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://symfony.com/logos/symfony_black_03.svg"
-            alt="symfony"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-            alt="nextjs"
-            width="40"
-            height="40"
-        />
-    </a>
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
+- 🎓 Certified Application Developer (IHK)
+- 🧠 Strong analytical and problem-solving mindset
+- 🤝 Team-oriented, reliable and eager to learn
+- 📍 Based in Germany
 
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"></a>
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-            alt="mariadb"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker"
-            width="40"
-            height="40"
-        />
-    </a>
-        <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-            alt="nginx"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
+---
 
-<h4 align="left">Mobile development</h4>
+## 💼 Professional Experience (Technical Focus)
 
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java"
-            width="40"
-            height="40"
-        />
-    </a>
-        <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-            alt="kotlin"
-            width="40"
-            height="40"
-        />
-    </a>
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img
-            src="https://reactnative.dev/img/header_logo.svg"
-            alt="reactnative"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-            alt="sqlite"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
+- Development of **web and e-commerce applications** in production environments
+- Implementation of **backend business logic** using PHP
+- Development of **custom plugins and extensions**
+- Database modeling, migrations and data processing
+- Building reusable frontend components with **Twig, Vue.js and SCSS**
+- Data validation and export functionality (e.g. CSV)
+- Working with existing codebases and structured project workflows
 
-<h4 align="left">Desktop development</h4>
+---
 
-<p align="left">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
+## 🚀 Current Focus
 
-<h4 align="left">Game development</h4>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-            alt="unity"
-            width="40"
-            height="40"
-        />
-    </a>
-<p align="left">
-</p>
+- 🔍 Actively looking for **Junior / Entry-Level Software Developer** roles
+- 🌐 Deepening skills in **modern frontend and full stack development**
+- 🎮 Currently learning **game development with Unity (C#)**
+- 📚 Continuous learning through personal projects and experimentation
 
-<h4 align="left">Others</h4>
+---
 
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-            alt="illustrator"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
+## 🧠 Tech Stack
 
-
+### 🌐 Web & Frontend
 <p>
-    <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=xshadowsoldierx&show_icons=true&locale=en&layout=compact"
-        alt="xshadowsoldierx"
-    />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue" />
 </p>
 
+### ⚙️ Backend & Databases
 <p>
-    <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=xshadowsoldierx&show_icons=true&locale=en"
-        alt="xshadowsoldierx"
-    />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb" />
 </p>
 
+### 🧰 DevOps & Infrastructure
 <p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=xshadowsoldierx&"
-        alt="xshadowsoldierx"
-    />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git" />
 </p>
+
+### 🎮 Game Development (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+---
+
+## 📫 Contact & Collaboration
+
+- 💼 Open to **Junior / Entry-Level Software Development roles**
+- 🤝 Interested in **Web, E-Commerce and Game Development**
+- 📬 Feel free to reach out via GitHub
