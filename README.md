@@ -1,75 +1,59 @@
-<h1 align="center">👋 Hi, I'm Ricardo</h1>
-<h3 align="center">Junior Full Stack Developer · Web & E-Commerce</h3>
+<h1 align="center">Hi, I'm Ricardo 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xshadowsoldierx&label=Profile%20Views&color=0e75b6&style=flat" />
+  Frontend & Web Developer with a focus on modern, maintainable web applications.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-I am an analytically minded **Junior Software Developer** with a strong focus on  
-**Web and E-Commerce Applications**.
+I'm a frontend-focused web developer with a strong interest in building clean,
+user-friendly and scalable web applications.
 
-I enjoy working on structured, maintainable codebases and taking responsibility for
-clearly defined features and projects. I adapt quickly to new technologies and value
-clean architecture and practical solutions.
+My main focus lies on **React** and **Next.js**, where I enjoy working on
+component-based architectures, structured state management and thoughtful UX.
+I value clean code, clear structure and solutions that make sense from a
+product perspective — not just technically.
 
-- 🎓 Certified Application Developer (IHK)
-- 🧠 Strong analytical and problem-solving mindset
-- 🤝 Team-oriented, reliable and eager to learn
-- 📍 Based in Germany
-
----
-
-## 💼 Professional Experience (Technical Focus)
-
-- Development of **web and e-commerce applications** in production environments
-- Implementation of **backend business logic** using PHP
-- Development of **custom plugins and extensions**
-- Database modeling, migrations and data processing
-- Building reusable frontend components with **Twig, Vue.js and SCSS**
-- Data validation and export functionality (e.g. CSV)
-- Working with existing codebases and structured project workflows
+Currently, I’m actively expanding my practical experience by building
+realistic projects and deepening my frontend skill set.
 
 ---
 
-## 🚀 Current Focus
+### 🧠 Focus Areas
 
-- 🔍 Actively looking for **Junior / Entry-Level Software Developer** roles
-- 🌐 Deepening skills in **modern frontend and full stack development**
-- 🎮 Currently learning **game development with Unity (C#)**
-- 📚 Continuous learning through personal projects and experimentation
+- Modern frontend development with React & Next.js  
+- Clean and maintainable component architectures  
+- Responsive layouts & user-focused interfaces  
+- Performance, accessibility and code quality  
 
 ---
 
-## 🧠 Tech Stack
+### 🛠 Tech Stack
 
-### 🌐 Web & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue" />
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb" />
-</p>
-
-### 🧰 DevOps & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git" />
-</p>
-
-### 🎮 Game Development (Learning)
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,cs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,scss,bootstrap,php,sql,git,github" />
 </p>
 
 ---
 
-## 📫 Contact & Collaboration
+### 🚀 Currently Working On
 
-- 💼 Open to **Junior / Entry-Level Software Development roles**
-- 🤝 Interested in **Web, E-Commerce and Game Development**
-- 📬 Feel free to reach out via GitHub
+- Building practical Next.js projects with real-world structure
+- Improving frontend architecture & state management
+- Strengthening JavaScript fundamentals and best practices
+- Preparing production-ready demo applications
+
+---
+
+### 📫 Contact
+
+- 📧 Email: **r.boock.coding@proton.me**
+- 💼 Open for frontend & web development opportunities
+
+---
+
+<p align="center">
+  <i>Clean code. Clear structure. Thoughtful UX.</i>
+</p>
