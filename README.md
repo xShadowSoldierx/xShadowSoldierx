@@ -1,49 +1,66 @@
 <h1 align="center">Hi, I'm Ricardo 👋</h1>
 
 <p align="center">
-  Frontend & Web Developer with a focus on modern, maintainable web applications.
+  Junior Frontend Developer focused on building modern, scalable web applications with React & Next.js.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a frontend-focused web developer with a strong interest in building clean,
-user-friendly and scalable web applications.
+I’m a frontend-focused developer with hands-on experience building structured,
+production-like web applications using **React** and **Next.js**.
 
-My main focus lies on **React** and **Next.js**, where I enjoy working on
-component-based architectures, structured state management and thoughtful UX.
-I value clean code, clear structure and solutions that make sense from a
-product perspective — not just technically.
+My work focuses on clean component architecture, clear data flows and
+maintainable code. I approach development not only from a technical
+perspective, but also with a strong focus on usability and product quality.
 
-Currently, I’m actively expanding my practical experience by building
-realistic projects and deepening my frontend skill set.
+Currently, I’m building real-world projects to deepen my experience in
+frontend architecture, API integration and scalable application design.
 
 ---
 
 ### 🧠 Focus Areas
 
-- Modern frontend development with React & Next.js  
-- Clean and maintainable component architectures  
-- Responsive layouts & user-focused interfaces  
-- Performance, accessibility and code quality  
+- Building modern web applications with React & Next.js  
+- Scalable component architectures and clean code practices  
+- API integration and structured data handling  
+- Performance, accessibility and maintainability  
+
+---
+
+### 🚀 Featured Project
+
+**Remote Job Board (Next.js, TypeScript)**  
+Production-like web application with API integration, search & filtering logic,
+CI/CD pipeline and Docker-based deployment.
+
+→ Repository: https://github.com/ricardo-boock/next-jobs  
+→ Live Demo: https://next-jobs-cyan.vercel.app  
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,scss,bootstrap,php,sql,git,github" />
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,scss" />
 </p>
 
----
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=php" />
+</p>
 
-### 🚀 Currently Working On
+**Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-- Building practical Next.js projects with real-world structure
-- Improving frontend architecture & state management
-- Strengthening JavaScript fundamentals and best practices
-- Preparing production-ready demo applications
+**Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
 
 ---
 
@@ -55,5 +72,5 @@ realistic projects and deepening my frontend skill set.
 ---
 
 <p align="center">
-  <i>Clean code. Clear structure. Thoughtful UX.</i>
+  <i>Clean code. Clear structure. Real-world applications.</i>
 </p>
